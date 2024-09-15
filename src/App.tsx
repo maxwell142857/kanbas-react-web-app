@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          hello react js from ywhf
+          hello react js from CI
         </p>
         <a
           className="App-link"
